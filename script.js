@@ -4,5 +4,5 @@ function openModal() {
     modal.style.display = 'block';
     setTimeout(function() {
         modal.style.display = 'none';
-    }, 10000);
+    }, 5000);
 }
