@@ -37,4 +37,12 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
+
+    // Event listeners for new buttons
+    document.getElementById('btn-白菜').addEventListener('click', function() {
+        alert('Recipe for 开水白菜: Ingredients: Napa cabbage, water, salt. Steps: Boil water, add cabbage, cook until tender.');
+    });
+    document.getElementById('btn-汉堡包').addEventListener('click', function() {
+        alert('Recipe for 汉堡包: Ingredients: Bun, beef patty, lettuce, tomato, cheese. Steps: Grill patty, assemble ingredients in bun.');
+    });
 });
