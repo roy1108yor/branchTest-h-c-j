@@ -1,7 +1,6 @@
 .git/
+
 .pnpm-store
 # Clacky-related configuration
 .1024*
 !.1024
-
-
