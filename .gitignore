@@ -4,12 +4,4 @@
 .1024*
 !.1024
 
-# Language-specific files
-*.log
-*.cache
-
-# Framework-related files
-dist/
-build/
-temp/
 
