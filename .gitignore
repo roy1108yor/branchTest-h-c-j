@@ -1,1 +1,4 @@
 .git/
+# Clacky-related configuration
+.1024*
+!.1024
